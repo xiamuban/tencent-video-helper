@@ -17,3 +17,4 @@ Tencent Video Helper
 
 #### 其他
 - 如果二次签到失败,尝试手动从手机`app`签到一次。私信任意用户然后发送并点击链接`http://v.qq.com/x/bu/mobile_checkin`, 点击链接后会签到一次。然后次日在观察执行结果
+  
